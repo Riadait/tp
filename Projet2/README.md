@@ -1,0 +1,1 @@
+Voici le projet, il s'agit d'un QCM sur Dragon Ball Z, pour le lancer il suffit de compiller le main.py. J'ai diviser mon code en 3 fichiers différent pqu'il soit plus lisible.
